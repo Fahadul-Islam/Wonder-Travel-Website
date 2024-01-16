@@ -8,7 +8,7 @@
         align-items: center;
     }
 
-    .title1 {
+    .title-1 {
         color: #131318;
         font-size: 16px;
         font-weight: 800;
@@ -193,6 +193,23 @@
     .about-us-2{
         margin: 0;
         padding: 32px;
+    }
+
+    footer>div {
+        padding: 32px 75px 15px 100px
+    }
+    
+    footer p {
+    padding: 0px 44px 15px 44px;
+
+    }
+    
+    footer i {
+        padding-bottom: 24px;   
+    }
+    
+    footer h4 {
+       padding-bottom: 31px;
     }
 
 

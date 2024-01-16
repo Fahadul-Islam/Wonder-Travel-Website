@@ -203,6 +203,7 @@ body {
     top: 35%;
     right: 40%
 }
+
 .text-destination-2 h4 {
     position: absolute;
     color: #FFF;
@@ -212,6 +213,7 @@ body {
     top: 35%;
     right: 35%
 }
+
 .text-destination-3 h4 {
     position: absolute;
     color: #FFF;
@@ -221,6 +223,7 @@ body {
     top: 35%;
     right: 30%
 }
+
 .text-destination-4 h4 {
     position: absolute;
     color: #FFF;
@@ -230,6 +233,7 @@ body {
     top: 35%;
     right: 30%
 }
+
 .text-destination-5 h4 {
     position: absolute;
     color: #FFF;
@@ -240,7 +244,7 @@ body {
     right: 35%
 }
 
-.text-destination-6 h4{
+.text-destination-6 h4 {
     position: absolute;
     color: #FFF;
     text-align: center;
@@ -249,7 +253,8 @@ body {
     top: 35%;
     right: 40%
 }
-.About>h2{
+
+.About>h2 {
     text-align: center;
     color: #131318;
     font-size: 40px;
@@ -257,12 +262,12 @@ body {
     margin: 100px 565px 24px 565px;
 }
 
-.About>p{
+.About>p {
     color: rgba(19, 19, 24, 0.70);
-text-align: center;
-font-size: 16px;
-font-weight: 400;
-margin: 0 400px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 400px;
 }
 
 .about-main {
@@ -271,28 +276,29 @@ margin: 0 400px;
     gap: 24px;
 }
 
-.about-us{
+.about-us {
     border-radius: 16px;
-border: 1px solid rgba(251, 181, 99, 0.20);
-background: rgba(251, 181, 99, 0.05);
-text-align: left;
-padding: 32px 55px 32px 32px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    text-align: left;
+    padding: 32px 55px 32px 32px;
 
 }
 
-.about-section h2{
+.about-section h2 {
     color: #131318;
-font-size: 24px;
-font-weight: 800;
+    font-size: 24px;
+    font-weight: 800;
 
 }
-.about-section p{
+
+.about-section p {
     color: #5A5A5D;
     font-size: 16px;
     font-weight: 400;
 }
 
-.about-us-1{
+.about-us-1 {
     border-radius: 16px;
     border: 1px solid rgba(41, 206, 246, 0.20);
     background: rgba(41, 206, 246, 0.05);
@@ -300,11 +306,121 @@ font-weight: 800;
     padding: 32px 55px 32px 32px;
 }
 
-.about-us-2{
+.about-us-2 {
     border-radius: 16px;
-border: 1px solid rgba(233, 68, 68, 0.20);
-background: rgba(233, 68, 68, 0.05);
-text-align: left;
-margin: 0 435px 100px 435px;
-padding: 32px 55px 32px 32px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+    text-align: left;
+    margin: 0 435px 100px 435px;
+    padding: 32px 55px 32px 32px;
+}
+
+.input-tag input {
+    display: block;
+    margin-bottom: 20px;
+    padding: 16px 250px 16px 20px;
+    border-radius: 8px;
+    background: rgba(19, 19, 24, 0.05);
+    border: 0;
+}
+.newsletter {
+    border-radius: 16px;
+    border: 1px solid #FF5400;
+    background: #FFF;
+    padding: 40px;
+}
+
+.input-tag .subscribe {
+    padding: 14px 148px;
+    width: 100%;
+    border-radius: 8px;
+    background: #FF5400;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.newsletter h2 {
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.newsletter p {
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.line {
+    background: rgba(19, 19, 24, 0.10);
+    margin-bottom: 24px;
+}
+
+.img-button{
+    position:relative;
+
+}
+
+
+.img-button-1{
+    position: absolute;
+    width: 300px;
+    height: 120px;
+transform: rotate(-19.628deg);
+border-radius: 16px;
+background: #FF5400;
+border: 0;
+right:10px;
+top: 250px;
+
+
+}
+
+.img-button-1 h3{
+    color: #FFF;
+text-align: center;
+font-size: 24px;
+font-weight: 400;
+
+}
+
+.news {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 160px 100px 135px;
+}
+
+
+
+footer {
+    background: rgba(19, 19, 24, 0.05);
+    text-align: center
+}
+
+footer>div {
+    padding: 110px 550px 0px 580px
+}
+
+footer p {
+    padding-bottom: 33px;
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+
+
+}
+
+footer i {
+    width: 50px;
+    height: 25px;
+    padding-bottom: 100px;
+
+}
+
+footer h4 {
+    color: #131318;
+    font-size: 16px;
+    font-weight: 300;
+    padding-bottom: 110px;
 }
