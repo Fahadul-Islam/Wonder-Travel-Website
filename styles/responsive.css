@@ -1,0 +1,74 @@
+@media screen and (max-width: 576px) {
+
+    .control {
+        margin: 0px;
+        background-image: url(../Images/Frame\ \(3\).png);
+        background-repeat: no-repeat;
+        background-position: right;
+        align-items: center;
+    }
+
+    .title1 {
+        color: #131318;
+        font-size: 16px;
+        font-weight: 800;
+
+
+    }
+
+    .title-color {
+        color: #FF5400;
+        font-size: 16px;
+        font-weight: 800;
+    }
+
+
+    .img-icon {
+        width: 28px;
+    }
+
+    .nav-title a {
+        display: none;
+
+    }
+
+
+
+    .banner {
+        margin: 0;
+        width: 100%;
+    }
+
+    .banner-title {
+        padding: 32px 65px 0 65px;
+        font-size: 22px;
+        font-weight: 800;
+    }
+
+    .banner-pera {
+        font-size: 14px;
+        padding: 10px 32px;
+        font-weight: 400
+    }
+
+    .menu-bar {
+        margin: 24px 32px
+    }
+
+    .menu-bar-text {
+        width: 235px;
+        margin-bottom: 15px;
+    }
+
+    #menu-bar-option {
+        width: 265px;
+        margin-bottom: 15px;
+    }
+
+    .menu-bar-button {
+        width: 265px;
+
+    }
+
+
+}

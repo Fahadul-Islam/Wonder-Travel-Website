@@ -20,16 +20,14 @@ body {
 
 }
 
-.nav-title>ul li {
+.nav-title  a{
+    text-decoration: none;
     display: inline;
     align-items: center;
     padding-right: 44px;
-
-
-}
-
-a {
-    text-decoration: none;
+    color: #424247;
+    font-size: 18px;
+    font-weight: 400;
 }
 
 .title1 {
@@ -44,15 +42,6 @@ a {
     font-size: 36px;
     font-weight: 800;
 }
-
-.nav-title>ul li a {
-    color: #424247;
-    font-size: 18px;
-    font-weight: 400;
-
-
-}
-
 .title-color1 {
     color: #FF5400;
     font-family: Mulish;
@@ -81,7 +70,7 @@ a {
 
 .banner-pera {
     text-align: center;
-    padding-bottom: 45px;
+    padding: 0 247px 45px 247px;
     color: #FFF;
     font-size: 16px;
     font-weight: 400;
@@ -94,19 +83,19 @@ a {
     margin: 0 185px 106px 185px;
     padding: 16px;
     text-align: center;
-    
+
 
 }
 
 
 .menu-bar-text {
-    width: 170px;
+    width: 150px;
     border-radius: 8px;
     background: #FFF;
     border: 0;
     margin-right: 20px;
     padding: 15px;
-    
+
 }
 
 #menu-bar-option {
@@ -114,6 +103,7 @@ a {
     border-radius: 8px;
     background: #FFF;
     border: 0;
+    border-right: 10px solid #FFF;
     padding: 15px;
     margin-right: 20px;
 
@@ -121,14 +111,13 @@ a {
 
 .menu-bar-button {
 
-width: 170px;
+    width: 170px;
     border-radius: 8px;
     background: #FF5400;
     border: 0;
     color: #FFF;
     font-size: 16px;
     font-weight: 700;
-    padding: 15px;
-
+    padding: 14px;
 
 }
