@@ -67,8 +67,32 @@
 
     .menu-bar-button {
         width: 265px;
+        margin-right: 20px;
 
     }
+
+    .container {
+        margin: 0;
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    .heading-title {
+        font-size: 20px;
+    }
+
+    .container-text {
+        font-size: 14px;
+    }
+
+    .container-img {
+        width: 360px;
+    }
+
+
+
+
+
 
 
 }
