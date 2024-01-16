@@ -91,6 +91,65 @@
 
 
 
+    .destination {
+        margin: 0;
+
+    }
+
+
+    .destination h2 {
+        color: #131318;
+        font-size: 20px;
+        font-weight: 800;
+
+    }
+
+
+    .destination1 {
+        flex-direction: column;
+        display: grid;
+        height: auto;
+    }
+    .destination1 div img{
+        height: 175px;
+
+    }
+    .text-destination div h4 {
+        font-size: 20px;
+        font-weight: 800;
+    }
+
+    .text-destination1 h4 {
+        top: 30%;
+        right: 40%
+    }
+    .text-destination2 h4 {
+        top: 30%;
+        right: 40%
+    }
+    .text-destination3 h4 {
+        top: 30%;
+        right: 30%
+    }
+    .text-destination4 h4 {
+        top: 30%;
+        right: 40%
+    }
+    .text-destination5 h4 {
+        top: 25%;
+        right: 35%
+    }
+
+    .text-destination6 h4 {
+        top: 25%;
+        right: 35%
+    }
+
+
+
+
+
+
 
 
 
