@@ -173,14 +173,14 @@ body {
     padding-bottom: 45px;
 }
 
-.destination1 img {
+.destination-1 img {
     width: 100%;
     height: 100%;
 
 
 }
 
-.destination1 {
+.destination-1 {
     display: flex;
     height: 350px;
     gap: 20px;
@@ -194,7 +194,7 @@ body {
 }
 
 
-.text-destination1 h4 {
+.text-destination-1 h4 {
     position: absolute;
     color: #FFF;
     text-align: center;
@@ -203,7 +203,7 @@ body {
     top: 35%;
     right: 40%
 }
-.text-destination2 h4 {
+.text-destination-2 h4 {
     position: absolute;
     color: #FFF;
     text-align: center;
@@ -212,7 +212,7 @@ body {
     top: 35%;
     right: 35%
 }
-.text-destination3 h4 {
+.text-destination-3 h4 {
     position: absolute;
     color: #FFF;
     text-align: center;
@@ -221,7 +221,7 @@ body {
     top: 35%;
     right: 30%
 }
-.text-destination4 h4 {
+.text-destination-4 h4 {
     position: absolute;
     color: #FFF;
     text-align: center;
@@ -230,7 +230,7 @@ body {
     top: 35%;
     right: 30%
 }
-.text-destination5 h4 {
+.text-destination-5 h4 {
     position: absolute;
     color: #FFF;
     text-align: center;
@@ -240,7 +240,7 @@ body {
     right: 35%
 }
 
-.text-destination6 h4{
+.text-destination-6 h4{
     position: absolute;
     color: #FFF;
     text-align: center;
