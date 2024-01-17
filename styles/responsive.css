@@ -219,25 +219,44 @@
     .news {
         margin: 0;
         flex-direction: column;
+        padding-top: 24px;
+        gap: 15px;
     }
 
     .newsletter {
-        padding: 0;
+        padding: 23px;
     }
 
+
+    .input-tag .subscribe {
+        padding: 14px 95px;
+        width: 100%;
+    }
+
+    .img-button {
+        margin-bottom: 24px;
+    }
 
     .img-button-2 {
         width: 360px;
         height: 300px;
+    
 
     }
 
     .img-button-1 {
-        top: 2.5px;
+
+        width: 215px;
+        height: 80px;
+
+    }
+
+    .img-button-1 h3 {
+        font-size: 15px;
     }
 
     .input-tag input {
-        padding: 16px 145px 16px 20px;
+        padding: 16px 130px 16px 20px;
     }
 
 
